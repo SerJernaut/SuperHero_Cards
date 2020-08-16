@@ -1,0 +1,15 @@
+{
+  "development": {
+    "username": "serjernaut",
+    "password": "admin",
+    "database": "superhero_db",
+    "host": "localhost",
+    "dialect": "postgres",
+    "migrationStorage": "json",
+    "seederStorage": "json"
+  },
+  "test": {
+  },
+  "production": {
+  }
+}
