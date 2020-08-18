@@ -4,7 +4,6 @@ const CONSTANTS = {
     ORIGIN_DESCRIPTION_PATTERN:  /^[A-Z][a-zA-Z0-9]{8,300}$/,
     SUPERPOWERS_PATTERN: /^[A-Z][a-zA-Z0-9]{8,300}$/,
     CATCH_PHRASE_PATTERN: /^[A-Z][a-zA-Z0-9]{8,60}$/,
-    MONGO_DB_URL: 'mongodb://localhost:27017/superhero_db',
     GET_CARDS_LIMIT: 5
 };
 
